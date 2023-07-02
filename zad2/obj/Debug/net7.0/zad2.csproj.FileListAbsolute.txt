@@ -1,0 +1,5 @@
+E:\Projekty VSCode\cw8\zad2\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+E:\Projekty VSCode\cw8\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty VSCode\cw8\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+E:\Projekty VSCode\cw8\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+E:\Projekty VSCode\cw8\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
